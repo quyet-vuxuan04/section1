@@ -1,0 +1,18 @@
+:root {
+    --grey: #7d7e7f;
+    --text: #232323;
+    --hr: #7d7e7f46;
+    --hover: #156fc9b7;
+}
+
+/* footer */
+.footer-section a.link-secondary:hover {
+    color: var(--hover);
+}
+
+footer {
+    position: absolute;
+    /* bottom: 0; */
+    left: 0;
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+.embed-responsive {
+    width: 100% !important;
+    height: 70vh !important;
+}
+
+.embed-responsive-item {
+    width: 100% !important;
+    height: 70vh !important;
+}
+
+.test {
+    height: 500px;
+}

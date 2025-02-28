@@ -1,0 +1,25 @@
+.hr {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.733);
+}
+
+.content-IMG {
+    width: 70%;
+    height: auto;
+    object-fit: cover;
+}
+
+.content-post {
+    width: 70%;
+
+}
+
+.comment-user textarea {
+    width: 70%;
+    height: 120px;
+    resize: none;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.121);
+    outline: none;
+    padding: 4px 14px;
+    font-size: 18px;
+}
